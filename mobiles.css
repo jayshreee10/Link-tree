@@ -1,0 +1,96 @@
+@media only screen and (width <= 500px) 
+{
+    .image img
+{
+   height: 85px;
+   width: 85px;
+   border-radius: 85px;
+   margin-left: 100px;
+}
+   .container
+ {  
+   width: 250px;
+   height: 290px;
+   padding-left:40px;
+   padding-top: 50px;
+   margin-top: -40px;
+
+ }
+ button.fb 
+{
+    width: 110px;;
+    height: 40px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-left: -15px;
+}
+button.ig 
+{
+   width: 110px;;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.mail 
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.ln 
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.x
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.sc 
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.git
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.spotify
+{
+   width: 110px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+   margin-left: 10px;
+   
+}
+button.resume
+{
+    width:230px ;
+    height: 40px;
+   border-radius: 5px;
+   border-color: transparent;
+}
+.DND {
+    font-size: 13px;
+    width: 250px;
+    margin-top: 50px;
+   }
+}

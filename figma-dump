@@ -1,0 +1,42 @@
+/* container */
+
+position: absolute;
+width: 346px;
+height: 415px;
+
+background: rgba(217, 217, 217, 0.16);
+border-radius: 12px;
+
+@media only screen ( min-width:4250x ; min-height:600px){
+  
+}
+@media only screen and ( min-width:768px )
+{
+
+}
+@media only screen {
+    
+}
+@media only screen and (max-width<= 600px) {
+    body {
+   .container
+  {
+    background: rgba(217, 217, 217, 0.16);
+    border-radius: 12px;   
+    width: 200px;
+    height: 300px;
+    padding-left:50px;
+    padding-top: 50px;
+    margin-top: 0px;
+ 
+  }
+  .image img
+ {
+    height: 95px;
+    width: 95px;
+    border-radius: 95px;
+    margin-left: 120px;
+    margin-top: 0px;
+ }
+    }
+  }

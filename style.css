@@ -1,0 +1,210 @@
+
+*
+{
+padding: 0px;
+margin: 0px;
+}
+.banner
+{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-image:url("assets/bg-web.svg");
+   height: 100vh;
+   background-position: center;
+   background-repeat:no-repeat ;
+   background-size: cover;
+}
+.banner-card
+{ 
+   color: rgb(255, 255, 255);
+   font-size:  10px;
+   left: 130px;
+}
+.banner-card h2
+ {
+   margin-top: -80px;
+   font-family: 'Kristi', cursive;
+   text-align:center;
+   font-weight: lighter;
+   font-size: 50px;
+   letter-spacing: px;
+ }
+ .banner-card h3
+ {
+   margin-top:px;
+   font-family: 'Kristi', cursive;
+   text-align:center;
+   font-weight: lighter;
+   font-size: 30px;
+   letter-spacing: 3px;
+ }
+.banner-card h1
+ {
+   margin-top: -10px;
+   font-family: 'Kristi', cursive;
+   font-size: 50px;
+   text-align:center;
+   letter-spacing: 3px;
+   font-weight: lighter;
+ }
+ .container
+ {
+   background: rgba(217, 217, 217, 0.16);
+   border-radius: 12px;   
+   width: 280px;
+   height: 300px;
+   padding-left:50px;
+   padding-top: 50px;
+   margin-top: -35px;
+
+ }
+
+.DND {
+ font-size: 15px;
+ width: 250px;
+ margin-top: 50px;
+ margin-left: 19px;
+}
+button
+{
+   color: white;
+}
+.row1
+{
+   display: flex;
+   justify-content:space-between;
+   margin-right: 50px;
+   margin-left: 5px;
+}
+.row2
+{
+   display: flex;
+   justify-content:space-between;
+   margin-right: 50px;
+   margin-top: 15px;
+   margin-left: 5px;
+}
+.row3
+{
+   display: flex;
+   justify-content:space-between;
+   margin-right: 50px;
+   margin-top: 15px;
+   margin-left: 5px;
+}
+.row4
+{
+   display: flex;
+   justify-content:space-between;
+   margin-right: 50px;
+   margin-top: 15px;
+   margin-left: 5px;
+}
+.row5
+{
+   margin-top: 15px;
+   margin-left:-10px ;
+   
+}
+.image img
+{
+   height: 95px;
+   width: 95px;
+   border-radius: 95px;
+   margin-left: 120px;
+   margin-top: 20px;
+}
+button
+{
+   /* Rectangle 12 
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 163px;
+top: 0px;
+*/
+background: rgba(217, 217, 217, 0.23);
+border-radius: 12px;
+
+}
+button.fb 
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.ig 
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.mail 
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.ln 
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.x
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.sc 
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: 10px;
+}
+button.git
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: -15px;
+}
+button.spotify
+{
+   width: 120px;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+   margin-left: 10px;
+   
+}
+button.resume
+{
+   width:250px ;
+   height: 40px;
+   border-radius: 10px;
+   border-color: transparent;
+}
+.row5 img
+{
+height: 15px;
+width: 15px;
+margin-left: 3px;
+}
