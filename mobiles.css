@@ -5,7 +5,8 @@
    height: 85px;
    width: 85px;
    border-radius: 85px;
-   margin-left: 100px;
+   margin-left: 105px;
+   margin-top: 25px;
 }
    .container
  {  
@@ -13,7 +14,7 @@
    height: 290px;
    padding-left:40px;
    padding-top: 50px;
-   margin-top: -40px;
+   margin-top: -30px;
 
  }
  button.fb 
@@ -91,6 +92,6 @@ button.resume
 .DND {
     font-size: 13px;
     width: 250px;
-    margin-top: 50px;
+    margin-top: 65px;
    }
 }
