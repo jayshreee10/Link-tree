@@ -107,7 +107,7 @@ button
 {
    margin-top: 17px;
    margin-left:-10px ;
-   
+  
 }
 .image img
 {
@@ -205,15 +205,8 @@ button.resume
 }
 .row5 img
 {
-   height: 15px;
-   width: 15px;
-   margin-left: 3px
- 
-}
-.row5 img
-{
    height: 12px;
-
+   width: 12px;
 }
 
 .fb img
