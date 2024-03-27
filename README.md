@@ -1,4 +1,4 @@
-**Link-Tree Project README**
+# **Link-Tree Project README**
 
  **Project Overview:** 
 The Link-Tree project is a dynamic platform that allows users to create personalized and customizable pages serving as centralized hubs for sharing vital links with their audience.
@@ -20,10 +20,8 @@ The Link-Tree project is a dynamic platform that allows users to create personal
 
 **Technologies Used:** Firebase , HTML/CSS for front-end design
 
----
-- Desktop View
-![Screenshot (320)](https://github.com/jayshreee10/Link-tree/assets/155508849/5d538692-6965-4057-8079-8aa8a459697a)
+- Mobile View & Desktop View
+<img src="https://github.com/jayshreee10/Link-tree/assets/155508849/546ce3f9-660c-4e67-82c8-541475812baa" alt="drawing" width="200"/> 
+___ <img src="https://github.com/jayshreee10/Link-tree/assets/155508849/5d538692-6965-4057-8079-8aa8a459697a" alt="drawing" width="700" height="365"/>
 
-- Mobile View
-![WhatsApp Image 2024-03-27 at 6 15 05 PM](https://github.com/jayshreee10/Link-tree/assets/155508849/546ce3f9-660c-4e67-82c8-541475812baa)
 
