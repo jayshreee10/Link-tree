@@ -20,7 +20,8 @@ search [connect with jayshree](https://connect.jayshree.tech/) on google
    - Provides a professional and organized way to share links.
    - Saves time and effort for both creators and viewers.
 
-### **Technologies Used:** Firebase , HTML/CSS for front-end design
+### **Technologies Used:**    
+Firebase , HTML/CSS for front-end design
 
 ### Mobile View & Desktop View
 <img src="https://github.com/jayshreee10/Link-tree/assets/155508849/546ce3f9-660c-4e67-82c8-541475812baa" alt="drawing" width="200"/> 
