@@ -25,6 +25,6 @@ Firebase , HTML/CSS for front-end design
 
 ### Mobile View & Desktop View
 <img src="https://github.com/jayshreee10/Link-tree/assets/155508849/546ce3f9-660c-4e67-82c8-541475812baa" alt="drawing" width="200"/> 
-__ <img src="https://github.com/jayshreee10/Link-tree/assets/155508849/5d538692-6965-4057-8079-8aa8a459697a" alt="drawing" width="600" height="365"/>
+__ <img src="https://github.com/jayshreee10/Link-tree/assets/155508849/5d538692-6965-4057-8079-8aa8a459697a" alt="drawing" width="650" height="365"/>
 
 
